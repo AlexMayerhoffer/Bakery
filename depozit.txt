@@ -1,0 +1,5 @@
+LACTATA;Smantana;Elvetia;21/12/2021;100
+LACTATA;Lapte;Romania;20/12/2021;1100
+CEREALA;Faina;Romania;Grau;200
+LACTATA;Branza;Romania;12/12/2020;111
+CEREALA;Orez bob lung;China;Orez;3440
